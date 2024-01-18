@@ -23,7 +23,7 @@
 
 **Usage**
     1. Clone the repository:
-        git clone https://github.com/your-username/voice-assistant.git
+        git clone https://github.com/Nikul-Parmar-19/Voice-Assistant.git
     2. Navigate to the project directory:
         cd voice-assistant
     3. Run the main script:
